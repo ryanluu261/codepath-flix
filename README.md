@@ -15,7 +15,7 @@
 ### App Walkthrough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="file:///Users/minhluu/Downloads/Flix-gif.mp4" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
